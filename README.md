@@ -1,6 +1,6 @@
 # My Docker Repository
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)![License](https://img.shields.io/badge/license-MIT-blue)![Python Version](https://img.shields.io/badge/python-3.9-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)   ![License](https://img.shields.io/badge/license-MIT-blue)   ![Python Version](https://img.shields.io/badge/python-3.9-blue)
 
 This repository provides a reusable Docker setup for various Python-based applications. It contains all the necessary files and configurations to build and run Python projects in a Docker container, ensuring consistency and isolation of environments.
 
